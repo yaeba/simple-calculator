@@ -1,6 +1,8 @@
-# simple_calculator
+# Simple Calculator
 
 A simple calculator
+
+![screenshot](screenshot.png)
 
 ## Getting Started
 
